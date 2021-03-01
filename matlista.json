@@ -1,0 +1,52 @@
+{
+    "kycklingköttbullar":{
+        "tags": ["kyckling", "pasta"],
+        "innehåll":{
+            "kycklingfärs [g]": 500,
+            "parmesan [g]": 200,
+            "pasta [g]": 1000,
+            "hela tomater på burk [g]" : 800,
+            "vitlök [st]": 1,
+            "basilika [st]": 1
+        },
+        "recept":"Efter behag",
+        "länk": ""
+    },
+    "hallouimitacos":{
+        "tags": ["vegetariskt"],
+        "innehåll":{
+            "halloumi [st]": 1,
+            "tortillia bröd [st]": 1,
+            "gräddfil [dl]": 3,
+            "sallad [g]": 100,
+            "chili [st]": 1,
+            "koriander [st]": 1
+        },
+        "recept":"Efter behag",
+        "länk": ""
+    },
+    "dahl":{
+        "tags": ["vegetariskt","veganskt"],
+        "innehåll":{
+            "gullök [st]": 1,
+            "chili [st]": 1,
+            "ingefära [g]": 100,
+            "hela tomater på burk [g]" : 400,
+            "kokosmjölk [g]": 800,
+            "rödalinser [dl]": 3,
+            "bladspenat [g]": 70,
+            "koriander [st]": 1
+        },
+        "kryddor":["kanel", "kardemumma", "gurkmeja", "hönsbuljong", "matolja"],
+        "recept":"1. Hetta upp olja i en panna och fräs lök, vitlök, chili och ingefära utan att det tar färg.\n 2. Tillsätt kryddorna och låt fräsa någon minut under omrörning.\n 3. Häll i tomatkross, kokosmjölk och buljongtärningar, rör om och låt koka upp.\n 4. Tillsätt linserna och låt grytan sjuda cirka 10 minuter under lock tills linserna är mjuka, men med tuggmotståndet kvar (al dente). 5. Blanda ner babyspenat och toppa med finhackad koriander. Servera med naanbröd.",
+        "länk": "https://www.hemkop.se/recept/indisk_daal_(linsgryta)"
+    },
+    "plåtmat":{
+        "tags": ["vegetariskt"],
+        "innehåll":{
+            "grönsaker [plåt]": 1
+        },
+        "recept":"Efter behag",
+        "länk": ""
+    }
+}
