@@ -37,7 +37,7 @@
             "bladspenat [g]": 70,
             "koriander [st]": 1
         },
-        "kryddor":["kanel", "kardemumma", "gurkmeja", "hönsbuljong", "matolja"],
+        "skafferiet":["kanel", "kardemumma", "gurkmeja", "hönsbuljong", "matolja"],
         "recept":"1. Hetta upp olja i en panna och fräs lök, vitlök, chili och ingefära utan att det tar färg.\n 2. Tillsätt kryddorna och låt fräsa någon minut under omrörning.\n 3. Häll i tomatkross, kokosmjölk och buljongtärningar, rör om och låt koka upp.\n 4. Tillsätt linserna och låt grytan sjuda cirka 10 minuter under lock tills linserna är mjuka, men med tuggmotståndet kvar (al dente). 5. Blanda ner babyspenat och toppa med finhackad koriander. Servera med naanbröd.",
         "länk": "https://www.hemkop.se/recept/indisk_daal_(linsgryta)"
     },
@@ -46,7 +46,42 @@
         "innehåll":{
             "grönsaker [plåt]": 1
         },
+        "skafferiet":["matolja"],
         "recept":"Efter behag",
         "länk": ""
-    }
+    },
+    "tomatfiskgryta":{
+        "tags": ["fisk"],
+        "innehåll":{
+            "fisk (fryst eller färsk) [g]": 300,
+            "saffran [pkt]": 1,
+            "potatis [g]": 400,
+            "tomatjuice [l]": 1,
+            "morot [g]": 200,
+            "persilja [g]": 20,
+            "bladselleri [st]": 1,
+            "gullök [st]": 1
+        },
+        "skafferiet":["matolja", "vitlök", "ägg", "fiskbuljong"],
+        "recept":"Efter behag, serveras med persilja och en klick aioli",
+        "länk": ""
+    },
+    "PalakPaneer":{
+        "tags": ["vegetariskt"],
+        "innehåll":{
+            "paneer [st]": 1
+        },
+        "skafferiet":["matolja"],
+        "recept":"Efter behag",
+        "länk": ""
+    },
+    "Bahnmi":{
+        "tags": ["fläsk"],
+        "innehåll":{
+            "paneer [st]": 1
+        },
+        "skafferiet":["matolja"],
+        "recept":"Efter behag",
+        "länk": ""
+    },
 }
