@@ -1,4 +1,4 @@
-{
+export default{
     "kycklingköttbullar":{
         "tags": ["kyckling", "pasta"],
         "innehåll":{
